@@ -9,3 +9,7 @@
 - About Dataset- We are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are toxic, severe_toxic, obscene, threat, insult and identity_hate
 - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
+### Skin Cancer Recognition
+- About Dataset- Skin Cancer: This dataset contains a balanced dataset of images of benign skin moles and malignant skin moles.
+- https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
+
