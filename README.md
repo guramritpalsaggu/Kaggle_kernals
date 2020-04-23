@@ -7,11 +7,11 @@ https://www.kaggle.com/unsdsn/world-happiness
 
 ### Toxic Comment Classification
 - About Dataset- We are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:
--toxic
--severe_toxic
--obscene
--threat
--insult
--identity_hate
+- toxic
+- severe_toxic
+- obscene
+- threat
+- insult
+- identity_hate
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
