@@ -1,6 +1,6 @@
 # Kaggle_kernals
 
-###Happiness Report Kernal
+### Happiness Report Kernal
 
-###Toxic Comment Classification
+### Toxic Comment Classification
 
